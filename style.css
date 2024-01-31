@@ -17,3 +17,9 @@ table{
 .teacher-text{
     font-size: small;
 }
+
+.invisible_cell{
+    padding-bottom: 8.7em;
+    border: none;
+}
+
