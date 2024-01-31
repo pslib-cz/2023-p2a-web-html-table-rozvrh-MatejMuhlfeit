@@ -1,7 +1,19 @@
 td, th{
     padding: 1em;
     border: 2px solid black;
+    text-align: center;
+
 }
 table{
     border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.subject-text{
+    font-size: large;
+    font-weight: bold;
+}
+
+.teacher-text{
+    font-size: small;
 }
