@@ -16,6 +16,7 @@ table{
 
 .teacher-text{
     font-size: small;
+    display: block;
 }
 
 .invisible_cell{
